@@ -1,0 +1,10 @@
+*.jpg
+*.png
+*.txt
+*.csv
+*.json
+*.h5
+*.log
+*.v2
+*.yaml
+*.pth
